@@ -1,4 +1,5 @@
 Hello-world
 ===========
 
-my first repository on github
+My first repository on github
+,I am pursuing BTECH in Computer science from IIT JODHPUR
